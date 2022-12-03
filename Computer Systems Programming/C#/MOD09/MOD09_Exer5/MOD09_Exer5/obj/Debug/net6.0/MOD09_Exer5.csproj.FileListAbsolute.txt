@@ -1,0 +1,15 @@
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\bin\Debug\net6.0\MOD09_Exer5.exe
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\bin\Debug\net6.0\MOD09_Exer5.deps.json
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\bin\Debug\net6.0\MOD09_Exer5.runtimeconfig.json
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\bin\Debug\net6.0\MOD09_Exer5.dll
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\bin\Debug\net6.0\MOD09_Exer5.pdb
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.csproj.AssemblyReference.cache
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.AssemblyInfoInputs.cache
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.AssemblyInfo.cs
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.dll
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\refint\MOD09_Exer5.dll
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.pdb
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\MOD09_Exer5.genruntimeconfig.cache
+C:\Users\ESEN\Desktop\Escola\PSI\MOD9\Classes e Objetos\MOD09_Exer5\MOD09_Exer5\obj\Debug\net6.0\ref\MOD09_Exer5.dll
