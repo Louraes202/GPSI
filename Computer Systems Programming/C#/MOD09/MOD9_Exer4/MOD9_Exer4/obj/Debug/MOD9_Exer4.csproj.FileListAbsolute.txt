@@ -1,8 +1,0 @@
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\bin\Debug\MOD9_Exer4.exe.config
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\bin\Debug\MOD9_Exer4.exe
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\bin\Debug\MOD9_Exer4.pdb
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\obj\Debug\MOD9_Exer4.csproj.AssemblyReference.cache
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\obj\Debug\MOD9_Exer4.csproj.SuggestedBindingRedirects.cache
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\obj\Debug\MOD9_Exer4.csproj.CoreCompileInputs.cache
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\obj\Debug\MOD9_Exer4.exe
-C:\Users\marti\source\repos\MOD9_Exer4\MOD9_Exer4\obj\Debug\MOD9_Exer4.pdb
